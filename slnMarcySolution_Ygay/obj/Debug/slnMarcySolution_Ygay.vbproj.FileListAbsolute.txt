@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\bin\Debug\slnMarcySolution_Ygay.exe.config
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\bin\Debug\slnMarcySolution_Ygay.exe
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\bin\Debug\slnMarcySolution_Ygay.pdb
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\bin\Debug\slnMarcySolution_Ygay.xml
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.frmMain.resources
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.Resources.resources
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.exe
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.xml
+C:\Users\User\source\repos\slnMarcySolution_Ygay\slnMarcySolution_Ygay\obj\Debug\slnMarcySolution_Ygay.pdb
